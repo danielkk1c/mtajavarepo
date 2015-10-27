@@ -1,0 +1,6 @@
+/bin/  
+/.settings 
+war/WEB­INF/classes  
+*.class  
+*.jar  
+war/WEB­INF/appengine­generated/
